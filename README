@@ -1,0 +1,4 @@
+#ts-repl
+
+An example project using ts-node to setup a TypeScript REPL.
+
