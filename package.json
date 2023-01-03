@@ -1,0 +1,27 @@
+{
+  "name": "ts-repl",
+  "version": "1.0.0",
+  "description": "An example node project with a TypeScript enabled REPL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bishopandco/ts-repl.git"
+  },
+  "keywords": [
+    "Node",
+    "TypeScript",
+    "REPL",
+    "ts-node",
+    "example",
+    "starter"
+  ],
+  "author": "Michael Bishop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bishopandco/ts-repl/issues"
+  },
+  "homepage": "https://github.com/bishopandco/ts-repl#readme"
+}
